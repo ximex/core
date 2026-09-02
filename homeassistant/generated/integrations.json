@@ -2780,6 +2780,12 @@
       "config_flow": true,
       "iot_class": "local_polling"
     },
+    "gree_infrared": {
+      "name": "Gree Infrared",
+      "integration_type": "device",
+      "config_flow": true,
+      "iot_class": "assumed_state"
+    },
     "green_planet_energy": {
       "name": "Green Planet Energy",
       "integration_type": "service",
